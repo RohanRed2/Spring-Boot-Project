@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Rohan
+Build-Jdk: 21.0.6
+Implementation-Title: stepbysteptogether
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: all
+Implementation-URL: https://spring.io/projects/spring-boot/stepbysteptog
+ ether
+Created-By: Maven Integration for Eclipse
+
